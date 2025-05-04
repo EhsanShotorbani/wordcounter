@@ -1,0 +1,4 @@
+Word Counts:
+everyone: 1
+hello: 2
+world: 1
